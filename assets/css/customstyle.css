@@ -1,0 +1,56 @@
+.right-side .content{
+	max-height: 500px;
+}
+
+/* BOX */
+.box h3{
+  margin:10px;
+}
+
+/* POPUP PREVIEW */
+.popup .child{
+	background: #FFF;
+	position: relative;
+	padding: 20px;
+	width:auto;
+	height: auto;
+	max-width: 1024px;
+	max-height: 768px;
+	margin: 20px auto;
+	overflow: hidden;
+}
+
+/* PRESENTATION CONTENT */
+.fullcontent{
+	width:100%;
+	top:0px;
+	text-align: left; 
+}
+h1.hcontent{
+	font-size: 40px;,
+	text-align: left;
+	padding:10px;
+	border-bottom: #FAFAFA 1px solid;
+}
+
+div.acontent{
+	font-size: 19px;
+	padding:10px;
+}
+
+/* OVERIDE SLIDE FROM REVEAL.CSS */
+div.slides{
+	overflow: hidden;
+}
+
+/*SPAN IN DETAIL*/
+span.detail{
+	margin:0 15px;
+}
+
+
+/*SELECT IN TABLEADM*/
+.box-select{
+	padding:10px;
+	margin:10px;
+}
